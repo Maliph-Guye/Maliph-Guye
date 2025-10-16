@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tonnis Ondito</h1>
 <a align="center" href= "https://tonnis.netlify.app">View My Profile</a>
-<h3 align="center">A passionate full-stack Developer and AI/ML enthusiast from Kenya.</h3>
+<a align="center" href= "https://maliph-guye.github.io/My-Blog-Page">View My Blog Page</a>
+<h3 align="center">Software Engineer with Interest in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliph-guye&label=Profile%20views&color=0e75b6&style=flat" alt="maliph-guye" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maliph-guye" alt="maliph-guye" /></a> </p>
 
-- 🔭 I’m currently working on **a professional webpage**
+- 🔭 I’m currently working on **A FullStack AI Powered Microloan Platform**
 
-- 🌱 I’m currently learning **Python, AI/ML, C**
+- 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **company profile pages**
+- 👯 I’m looking to collaborate on **MERN and ML Projects**
 
-- 🤝 I’m looking for help with **Front-end Development**
+- 🤝 I’m looking for help with **MERN and AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maliph-Guye](https://github.com/Maliph-Guye)
 
-- 📝 I regularly write articles on [Computer Science Challenges](Computer Science Challenges)
+- 📝 I regularly write articles on [Technology](https://maliph-guye.github.io/My-Blog-Page/))
 
-- 💬 Ask me about **Front End Web Development**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **onditotonnis@gmail.com**
 
